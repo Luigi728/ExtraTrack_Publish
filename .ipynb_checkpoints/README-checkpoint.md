@@ -1,6 +1,8 @@
 # ExtraTrack_Publish
 ## Projecting Future Changes in Extratropical Transition of Atlantic Hurricanes in Earth System Models
 
+### Where to find each figure/table:
+
 #### Figure 1: C2_Storm_Examples
 #### Table 1: C1_Storm_Tracking
 #### Figures 4-6: C2_Storm_Examples
