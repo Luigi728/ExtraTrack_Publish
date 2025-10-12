@@ -4,9 +4,7 @@
 ### Where to find each figure/table:
 
 #### Figure 1: C2_Storm_Examples
-#### Table 1: C1_Storm_Tracking
 #### Figures 4-6: C2_Storm_Examples
-#### Table 2: C3.1_Monthly_Stats
 #### Figure 7: C3.1.0_Cumu_Freq
 #### Figure 8: C3.2_Spatial_Distr
 #### Figure 9: C3.2.0_Storm_Motion
@@ -15,6 +13,8 @@
 #### Figures 14-15: C3.5_Large_Scale
 #### Figure 16: C3.5.0_Eady_Growth_Rate
 
+#### Table 1: C1_Storm_Tracking
+#### Table 2: C3.1_Monthly_Stats
 #### Table A.1: C3.1_Monthly_Stats
 #### Table A.2-A.4: C3.1.6_Signif_Test
 
