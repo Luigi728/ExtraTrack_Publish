@@ -12,11 +12,11 @@
 #### Figure 9: C3.2.0_Storm_Motion
 #### Figure 10: C3.3_Phase_Space_Distr
 #### Figures 11-13: C3.4_Storm_Composites
-#### Figures 14-16: C3.5_Large_Scale
+#### Figures 14-15: C3.5_Large_Scale
+#### Figure 16: C3.5.0_Eady_Growth_Rate
 
 #### Table A.1: C3.1_Monthly_Stats
-#### Table A.2: C3.1.6_Signif_Test
-#### Figures A.3-A.4: C3.4.6_Storm_Compo_Signi
+#### Table A.2-A.4: C3.1.6_Signif_Test
 
 #### Figure B.1: C3.2_Spatial_Distr
 #### Figure B.2: C3.1_Monthly_Stats
@@ -24,5 +24,6 @@
 #### Figures B.8-B.9: C3.2_Spatial_Distr
 #### Figure B.10: C3.3_Phase_Space_Distr
 #### Figures B.11-B.13: C3.4_Storm_Composites
-#### Figures B.14-B.16: C3.5_Large_Scale
+#### Figures B.14-B.15: C3.5_Large_Scale
+#### Figure B.16: C3.5.0_Eady_Growth_Rate
 
