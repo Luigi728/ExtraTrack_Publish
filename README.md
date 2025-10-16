@@ -20,34 +20,14 @@ Projecting Future Changes in Extratropical Transition of Atlantic Hurricanes in 
 | `C2_Storm_Examples.ipynb` | Plot CPS diagrams of example storms | 2.3 Tracking Method | Figures 4-6
 | `C3.1_Monthly_Stats.ipynb` | Produce monthly climatological statistics | 3.1 Climatological Statistics | Tables 2 & A.2; Figure B.2
 | `C3.1.0_Cumu_Freq.ipynb` | Plot cumulative frequency density plots | 3.1 Climatological Statistics | Figures 7 & B.3-B.7
-| `C3.1.6_Signif_Test.ipynb` | Significant testing | 3.1 Climatological Statistics; 3.4 Storm Composites | Tables A.2-A.4
+| `C3.1.6_Signif_Test.ipynb` | Significant testing for Chapters 3.1 and 3.4 | 3.1 Climatological Statistics; 3.4 Storm Composites | Tables A.2-A.4
+| `C3.2_Spatial_Distr.ipynb` | Plot spatial distributions | 3.2 Spatial Distribution | Figures 8 & B.8-B.9
+| `C3.2.0_Storm_Motion.ipynb` | Plot average storm motion | 3.2 Spatial Distribution | Figure 9
+| `C3.3_Phase_Space_Distr.ipynb` | Plot cyclone phase space distributions | 3.3 Cyclone Phase Space Distribution | Figures 10 & B.10
+| `C3.4_Storm_Composites.ipynb` | Plot storm composites | 3.4 Storm Composites | Figures 11-13 & B.11-B.13
+| `C3.5_Large_Scale.ipynb` | Plot large scale analysis contours | 3.5 Large Scale Analysis | Figures 14-15 & B.14-B.15
+| `C3.5.0_Eady_Growth Rate.ipynb` | Plot Eady Growth Rate contours | 3.5 Large Scale Analysis | Figures 16 & B.16
 
 
 ## 3. Data
-
-## 4. Figures/Tables:
-
-- Figure 1: C2_Storm_Examples
-- Figures 4-6: C2_Storm_Examples
-- Figure 7: C3.1.0_Cumu_Freq
-- Figure 8: C3.2_Spatial_Distr
-- Figure 9: C3.2.0_Storm_Motion
-- Figure 10: C3.3_Phase_Space_Distr
-- Figures 11-13: C3.4_Storm_Composites
-- Figures 14-15: C3.5_Large_Scale
-- Figure 16: C3.5.0_Eady_Growth_Rate
-
-- Table 1: C1_Storm_Tracking
-- Table 2: C3.1_Monthly_Stats
-- Table A.1: C3.1_Monthly_Stats
-- Table A.2-A.4: C3.1.6_Signif_Test
-
-- Figure B.1: C3.2_Spatial_Distr
-- Figure B.2: C3.1_Monthly_Stats
-- Figures B.3-B.7: C3.1.0_Cumu_Freq
-- Figures B.8-B.9: C3.2_Spatial_Distr
-- Figure B.10: C3.3_Phase_Space_Distr
-- Figures B.11-B.13: C3.4_Storm_Composites
-- Figures B.14-B.15: C3.5_Large_Scale
-- Figure B.16: C3.5.0_Eady_Growth_Rate
 
