@@ -1,15 +1,14 @@
-Title: Projecting Future Changes in Extratropical Transition of Atlantic Hurricanes in Earth System Models
+## Projecting Future Changes in Extratropical Transition of Atlantic Hurricanes in Earth System Models
 
-Authors: Wing Him (Kinen) Kao, Colin Zarzycki
-Affiliation: Department of Meteorology and Atmospheric Science, Pennsylvania State University, State College, PA, United States
-Contact: kinenkao@gmail.com
-Date of Release: October 16th, 2025
-Version: V1.0
-DOI:
+- Authors: Wing Him (Kinen) Kao, Colin Zarzycki
+- Affiliation: Department of Meteorology and Atmospheric Science, Pennsylvania State University, State College, PA, United States
+- Contact: kinenkao@gmail.com
+- Date of Release: October 25th, 2025
+- Version: V1.0
+- DOI:
 
 ## 1. Overview
-This repository contains the processed data and code used in the analysis for the paper:
-Projecting Future Changes in Extratropical Transition of Atlantic Hurricanes in Earth System Models
+This repository contains the processed data and code used in this paper. Raw model output is not included due to storage limitations but can be available upon request.
 
 ## 2. Contents
 
@@ -27,7 +26,6 @@ Projecting Future Changes in Extratropical Transition of Atlantic Hurricanes in 
 | `C3.4_Storm_Composites.ipynb` | Plot storm composites | 3.4 Storm Composites | Figures 11-13 & B.11-B.13
 | `C3.5_Large_Scale.ipynb` | Plot large scale analysis contours | 3.5 Large Scale Analysis | Figures 14-15 & B.14-B.15
 | `C3.5.0_Eady_Growth Rate.ipynb` | Plot Eady Growth Rate contours | 3.5 Large Scale Analysis | Figures 16 & B.16
-
-
-## 3. Data
-
+| `Figures` | Store figures | N/A | N/A
+| `Storm_Tracking` | Store processed storm trajectories | N/A | N/A
+| `Figures` | Store processed large scale data | N/A | N/A
