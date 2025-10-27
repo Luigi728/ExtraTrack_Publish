@@ -4,8 +4,8 @@
 - Affiliation: Department of Meteorology and Atmospheric Science, Pennsylvania State University, State College, PA, United States
 - Contact: kinenkao@gmail.com
 - Date of Release: October 25th, 2025
-- Version: V1.0
-- DOI:
+- Version: V1.0.0
+- DOI: 10.5281/zenodo.17444418
 
 ## 1. Overview
 This repository contains the processed data and code used in this paper. Raw model output is not included due to storage limitations but can be available upon request.
@@ -26,5 +26,6 @@ This repository contains the processed data and code used in this paper. Raw mod
 | `C3.5_Large_Scale.ipynb` | Plot large scale analysis contours | 3.5 Large Scale Analysis | Figures 14-15 & B14-B15
 | `C3.5.0_Eady_Growth Rate.ipynb` | Plot Eady Growth Rate contours | 3.5 Large Scale Analysis | Figures 16 & B16
 | `Figures` | Store figures | N/A | N/A
+| `Storm_Raw` | Store raw storm trajectories | N/A | N/A
 | `Storm_Tracking` | Store processed storm trajectories | N/A | N/A
 | `Figures` | Store processed large scale data | N/A | N/A
